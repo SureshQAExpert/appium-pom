@@ -1,0 +1,9 @@
+/target/
+/test-output/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+appium_logs
+allure-results
